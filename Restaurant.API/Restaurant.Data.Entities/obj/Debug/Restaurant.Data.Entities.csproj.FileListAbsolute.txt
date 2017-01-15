@@ -1,0 +1,9 @@
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data.Entities\bin\Debug\Restaurant.Data.Entities.dll.config
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data.Entities\bin\Debug\Restaurant.Data.Entities.dll
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data.Entities\bin\Debug\Restaurant.Data.Entities.pdb
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data.Entities\obj\Debug\Restaurant.Data.Entities.dll
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data.Entities\obj\Debug\Restaurant.Data.Entities.pdb

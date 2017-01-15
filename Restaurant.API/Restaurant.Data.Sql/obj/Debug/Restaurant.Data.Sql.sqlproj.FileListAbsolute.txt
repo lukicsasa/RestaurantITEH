@@ -1,0 +1,9 @@
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data.Sql\bin\Debug\Restaurant.Data.Sql.dacpac
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data.Sql\bin\Debug\Restaurant.Data.Sql.dll
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data.Sql\bin\Debug\Restaurant.Data.Sql.pdb
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data.Sql\obj\Debug\Model.xml
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data.Sql\obj\Debug\refactor.xml
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data.Sql\obj\Debug\postdeploy.sql
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data.Sql\obj\Debug\predeploy.sql
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data.Sql\obj\Debug\Restaurant.Data.Sql.dll
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data.Sql\obj\Debug\Restaurant.Data.Sql.pdb

@@ -1,0 +1,14 @@
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data\obj\Debug\Restaurant.Data.csprojResolveAssemblyReference.cache
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data\bin\Debug\Restaurant.Data.dll.config
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data\bin\Debug\Restaurant.Data.dll
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data\bin\Debug\Restaurant.Data.pdb
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data\bin\Debug\EntityFramework.dll
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data\bin\Debug\Restaurant.Data.Entities.dll
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data\bin\Debug\Restaurant.Data.Model.dll
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data\bin\Debug\Restaurant.Data.Entities.pdb
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data\bin\Debug\Restaurant.Data.Model.pdb
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data\bin\Debug\EntityFramework.xml
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data\obj\Debug\Restaurant.Data.dll
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Data\obj\Debug\Restaurant.Data.pdb

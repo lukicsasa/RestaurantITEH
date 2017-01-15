@@ -1,0 +1,4 @@
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Core\bin\Debug\Restaurant.Core.dll
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Core\bin\Debug\Restaurant.Core.pdb
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Core\obj\Debug\Restaurant.Core.dll
+C:\Users\Sasa\Source\Repos\Restaurant\Restaurant.API\Restaurant.Core\obj\Debug\Restaurant.Core.pdb
