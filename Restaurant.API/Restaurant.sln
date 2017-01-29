@@ -35,6 +35,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Restaurant.CMS", "..\..\Res
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "1663"
+		SlnRelativePath = "..\..\Restaurant.CMS\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
